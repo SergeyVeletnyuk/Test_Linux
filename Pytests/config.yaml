@@ -1,0 +1,6 @@
+tst: /home/ubuntu/tst
+out: /home/ubuntu/out
+folder1: /home/ubuntu/folder1
+count: 2
+size: 5M
+config_type: zip
