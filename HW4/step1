@@ -1,0 +1,51 @@
+фев 04 17:25:50 ubuntu-s1 sshd[126429]: Accepted password for user2 from 127.0.0.1 port 38252 ssh2
+фев 04 17:25:50 ubuntu-s1 sshd[126429]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: New session 1844 of user user2.
+фев 04 17:25:50 ubuntu-s1 snapd-desktop-i[108864]: Detected new session 1844 at /org/freedesktop/login1/session/_31844
+фев 04 17:25:50 ubuntu-s1 sshd[126387]: pam_unix(sshd:session): session closed for user user2
+фев 04 17:25:50 ubuntu-s1 systemd[1]: Started Session 1844 of User user2.
+фев 04 17:25:50 ubuntu-s1 systemd[1]: session-1843.scope: Deactivated successfully.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Session 1843 logged out. Waiting for processes to exit.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Removed session 1843.
+фев 04 17:25:50 ubuntu-s1 sshd[126429]: pam_unix(sshd:session): session closed for user user2
+фев 04 17:25:50 ubuntu-s1 systemd[1]: session-1844.scope: Deactivated successfully.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Session 1844 logged out. Waiting for processes to exit.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Removed session 1844.
+фев 04 17:25:50 ubuntu-s1 sshd[126472]: Accepted password for user2 from 127.0.0.1 port 38266 ssh2
+фев 04 17:25:50 ubuntu-s1 sshd[126472]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: New session 1845 of user user2.
+фев 04 17:25:50 ubuntu-s1 snapd-desktop-i[108864]: Detected new session 1845 at /org/freedesktop/login1/session/_31845
+фев 04 17:25:50 ubuntu-s1 systemd[1]: Started Session 1845 of User user2.
+фев 04 17:25:50 ubuntu-s1 sshd[126472]: pam_unix(sshd:session): session closed for user user2
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Session 1845 logged out. Waiting for processes to exit.
+фев 04 17:25:50 ubuntu-s1 systemd[1]: session-1845.scope: Deactivated successfully.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Removed session 1845.
+фев 04 17:25:50 ubuntu-s1 sshd[126512]: Accepted password for user2 from 127.0.0.1 port 38276 ssh2
+фев 04 17:25:50 ubuntu-s1 sshd[126512]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: New session 1846 of user user2.
+фев 04 17:25:50 ubuntu-s1 snapd-desktop-i[108864]: Detected new session 1846 at /org/freedesktop/login1/session/_31846
+фев 04 17:25:50 ubuntu-s1 systemd[1]: Started Session 1846 of User user2.
+фев 04 17:25:50 ubuntu-s1 sshd[126553]: Accepted password for user2 from 127.0.0.1 port 38280 ssh2
+фев 04 17:25:50 ubuntu-s1 sshd[126553]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: New session 1847 of user user2.
+фев 04 17:25:50 ubuntu-s1 snapd-desktop-i[108864]: Detected new session 1847 at /org/freedesktop/login1/session/_31847
+фев 04 17:25:50 ubuntu-s1 sshd[126512]: pam_unix(sshd:session): session closed for user user2
+фев 04 17:25:50 ubuntu-s1 systemd[1]: Started Session 1847 of User user2.
+фев 04 17:25:50 ubuntu-s1 systemd[1]: session-1846.scope: Deactivated successfully.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Session 1846 logged out. Waiting for processes to exit.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Removed session 1846.
+фев 04 17:25:50 ubuntu-s1 sudo[126595]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -r p7zip-full
+фев 04 17:25:50 ubuntu-s1 sudo[126595]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+фев 04 17:25:50 ubuntu-s1 sudo[126595]: pam_unix(sudo:session): session closed for user root
+фев 04 17:25:50 ubuntu-s1 sshd[126553]: pam_unix(sshd:session): session closed for user user2
+фев 04 17:25:50 ubuntu-s1 systemd[1]: session-1847.scope: Deactivated successfully.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Session 1847 logged out. Waiting for processes to exit.
+фев 04 17:25:50 ubuntu-s1 systemd-logind[707]: Removed session 1847.
+фев 04 17:25:51 ubuntu-s1 sshd[126607]: Accepted password for user2 from 127.0.0.1 port 38286 ssh2
+фев 04 17:25:51 ubuntu-s1 sshd[126607]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+фев 04 17:25:51 ubuntu-s1 systemd-logind[707]: New session 1848 of user user2.
+фев 04 17:25:51 ubuntu-s1 snapd-desktop-i[108864]: Detected new session 1848 at /org/freedesktop/login1/session/_31848
+фев 04 17:25:51 ubuntu-s1 systemd[1]: Started Session 1848 of User user2.
+фев 04 17:25:51 ubuntu-s1 sudo[126648]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+фев 04 17:25:51 ubuntu-s1 sudo[126648]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+фев 04 17:25:51 ubuntu-s1 sudo[126648]: pam_unix(sudo:session): session closed for user root
